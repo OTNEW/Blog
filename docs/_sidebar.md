@@ -5,7 +5,7 @@
   - [Contents]()
   
 * **R**
-  - [Contents](<BLOG/Bioinformatics/Rstation/R_Outline.md>)
+  - [Contents](<BLOG/R/R_Outline.md>)
 
 * **Photography**
   - [Contents]()
