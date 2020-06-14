@@ -1,3 +1,3 @@
-[Remember Your Dream](<https://dreamwhigh.github.io/CS-Learning/#/>)
+[Remember Your Dream](<https://otnew.github.io/Blog/#/>)
 
 # Blog
