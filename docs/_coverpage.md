@@ -5,7 +5,7 @@
 
 自律且自由
 
-[GitHub](<https://github.com/OTNEW/Blog>)
-[Get Started](README.md)
+[Contact me](README.md)
+[Get Started](_sidebar.md)
 
 ![](_logo/blog.png)
