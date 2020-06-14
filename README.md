@@ -1,3 +1,3 @@
 **Remember Your Dream**
 
-# Blog
+# [Blog](https://otnew.github.io/Blog/#/)
