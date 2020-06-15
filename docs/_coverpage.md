@@ -1,7 +1,7 @@
 <img width="200px" src="_logo/logo.png">
 
 # **Samir's Blog**
-爱玩移液枪的佩奇
+玩移液枪的佩奇
 
 自律且自由
 
