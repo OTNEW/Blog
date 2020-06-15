@@ -1,14 +1,9 @@
-* **Lab publications**
-  - [Contents]()
+* [**Lab publications**](BLOG/LabPublications/LabPublications_Outline)
   
-* **Bioinformatics**
-  - [Contents]()
+* [**Bioinformatics**](BLOG/Bioinformatics/Bioinformatics_Outline)
   
-* **R**
-  - [Contents](<BLOG/R/R_Outline.md>)
+* [**R**](<BLOG/R/R_Outline.md>)
 
-* **Photography**
-  - [Contents]()
-  
-* **Others**
-  - [Contents]()
+* [**Photography**](BLOG/Photography/Photography_Outline)
+
+* [**Others**](BLOG/Others/Others_Outline)
