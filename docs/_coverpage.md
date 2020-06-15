@@ -6,6 +6,6 @@
 自律且自由
 
 [Contact me](Contact.html)
-[Get Started](_sidebar.md)
+[Get Started](README.md)
 
 ![](_logo/blog.png)
