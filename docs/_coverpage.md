@@ -8,4 +8,4 @@
 [Contact me](Contact.html)
 [Get Started](README.md)
 
-![](_logo/blog.png)
+<!--- ![](_logo/blog.png) --->
