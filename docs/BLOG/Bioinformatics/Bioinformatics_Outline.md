@@ -10,6 +10,8 @@
 
 * ### Tools
 
+	[MACS2](https://otnew.github.io/Blog_Bioinformatics/#/BLOG/Bioinformatics/ChIPseq/20200626_1)
+
 	[MEME](https://otnew.github.io/Blog_Bioinformatics/#/BLOG/Bioinformatics/ChIPseq/20200625_1)
 
 	[STAR](https://otnew.github.io/Blog_Bioinformatics/#/BLOG/Bioinformatics/Tools/20200616_1)
