@@ -10,7 +10,7 @@
 
 * ### Tools
 
-	[MACS2-参数详解](https://otnew.github.io/Blog_Bioinformatics/#/BLOG/Bioinformatics/ChIP-seq/20200627_1)
+	[MACS2-参数详解](https://otnew.github.io/Blog_Bioinformatics/#/BLOG/Bioinformatics/ChIPseq/20200627_1)
 
 	[MACS2-基础篇](https://otnew.github.io/Blog_Bioinformatics/#/BLOG/Bioinformatics/ChIPseq/20200626_1)
 
